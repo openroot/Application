@@ -1,0 +1,87 @@
+*	Application: Functional Practice
+..	Model
+1.	Channel
+2.	Data
+3.	Import
+4.	Export
+5.	Backup
+6.	Archive
+7.	Synchronise
+8.	Register
+9.	Authenticate
+10.	Edit
+11.	Convert
+12.	Administer
+13.	Encrypt
+14.	Decrypt
+15.	Analyse
+16.	Extend
+17.	Category
+18.	Group
+19.	Author
+20.	Tag
+21.	Enlist
+22.	Define
+23.	Classify
+24.	Style
+25.	Version
+26.	Manage
+::.	Program
+
+..	<[[	..	Schema	1.	Map	2.	Entity	3.	Table	::.	Instance	]]>
+1.	<[[	..	Task	1.	Routine	2.	Core	3.	Form	::.	Service	]]>
+2.	<[[	..	Read	1.	Specimen	2.	Draft	3.	Note	::.	Write	]]>
+3.	<[[	..	Reference	1.	Symbol	2.	Mark	3.	Icon	::.	Content	]]>
+4.	<[[	..	Serial	1.	Index	2.	Order	3.	Appendix	::.	Series	]]>
+5.	<[[	..	Server	1.	Origin	2.	Identity	3.	Remote	::.	Client	]]>
+6.	<[[	..	Active	1.	Format	2.	Reserve	3.	Storage	::.	Passive	]]>
+7.	<[[	..	Calendar	1.	Set	2.	Point	3.	Instrument	::.	Ledger	]]>
+8.	<[[	..	Prime	1.	Slab	2.	Standard	3.	Compound	::.	Keyword	]]>
+9.	<[[	..	Account	1.	State	2.	Contact	3.	Address	::.	Profile	]]>
+10.	<[[	..	Title	1.	Word	2.	Sentence	3.	Paragraph	::.	Session	]]>
+11.	<[[	..	Code	1.	Unit	2.	Structure	3.	Label	::.	Attribute	]]>
+12.	<[[	..	Stack	1.	Scope	2.	Size	3.	Layer	::.	Queue	]]>
+13.	<[[	..	Limit	1.	Mode	2.	Engine	3.	Dimension	::.	Security	]]>
+14.	<[[	..	Formula	1.	Step	2.	Node	3.	Diary	::.	Expression	]]>
+15.	<[[	..	Quantity	1.	Rate	2.	Amount	3.	Frequency	::.	Quality	]]>
+16.	<[[	..	Static	1.	Basic	2.	Premium	3.	Quantum	::.	Dynamic	]]>
+17.	<[[	..	Row	1.	Cell	2.	Tree	3.	Matrix	::.	Column	]]>
+18.	<[[	..	Line	1.	Space	2.	Margin	3.	Border	::.	Circle	]]>
+19.	<[[	..	Capital	1.	Chart	2.	Block	3.	Timeline	::.	Design	]]>
+20.	<[[	..	Bank	1.	Section	2.	Segment	3.	Division	::.	Domain	]]>
+21.	<[[	..	Library	1.	Union	2.	Badge	3.	Secret	::.	Project	]]>
+22.	<[[	..	Subject	1.	Logarithms	2.	Statement	3.	Assignment	::.	Book	]]>
+23.	<[[	..	System	1.	Band	2.	Rank	3.	Score	::.	Directory	]]>
+24.	<[[	..	Theme	1.	Font	2.	Colour	3.	Locale	::.	Language	]]>
+25.	<[[	..	Volume	1.	Minor	2.	Major	3.	Zip	::.	Snippet	]]>
+26.	<[[	..	Batch	1.	Schedule	2.	Smart	3.	Signature	::.	Share	]]>
+::.	<[[	..	About	1.	Query	2.	Device	3.	Certificate	::.	Link	]]>
+
+..	<[[	..	Role	1.	Flat	2.	Asset	3.	Resource	::.	Control	]]>
+1.	<[[	..	Log	1.	View	2.	Frame	3.	Script	::.	Method	]]>
+2.	<[[	..	Cache	1.	Sample	2.	Buffer	3.	Memory	::.	Stream	]]>
+3.	<[[	..	Name	1.	Hash	2.	Area	3.	Slot	::.	Original	]]>
+4.	<[[	..	Prefix	1.	Top	2.	Sector	3.	Port	::.	Suffix	]]>
+5.	<[[	..	Body	1.	Net	2.	Lap	3.	Span	::.	Figure	]]>
+6.	<[[	..	Ticket	1.	Increment	2.	Decrement	3.	Promote	::.	Coupon	]]>
+7.	<[[	..	Flag	1.	Dot	2.	Tip	3.	Dash	::.	Token	]]>
+8.	<[[	..	Pool	1.	Cycle	2.	Double	3.	Triple	::.	Period	]]>
+9.	<[[	..	Field	1.	Tier	2.	Level	3.	Pattern	::.	Course	]]>
+10.	<[[	..	Card	1.	Mail	2.	Sheet	3.	Document	::.	Bracket	]]>
+11.	<[[	..	Power	1.	Clock	2.	Stamp	3.	Admit	::.	Factor	]]>
+12.	<[[	..	Portal	1.	Load	2.	Chain	3.	Notice	::.	Platform	]]>
+13.	<[[	..	Lid	1.	Cap	2.	Open	3.	Close	::.	Root	]]>
+14.	<[[	..	Safe	1.	More	2.	Less	3.	Tape	::.	Vault	]]>
+15.	<[[	..	Scale	1.	Sum	2.	Loop	3.	Angle	::.	Colon	]]>
+16.	<[[	..	Digit	1.	Letter	2.	Scaler	3.	Vector	::.	Shape	]]>
+17.	<[[	..	Byte	1.	Text	2.	Graph	3.	Number	::.	Total	]]>
+18.	<[[	..	Length	1.	Width	2.	Breadth	3.	Height	::.	Curve	]]>
+19.	<[[	..	Media	1.	Image	2.	Sound	3.	Video	::.	Animation	]]>
+20.	<[[	..	Left	1.	Small	2.	Centre	3.	Big	::.	Right	]]>
+21.	<[[	..	Poll	1.	Entry	2.	Exit	3.	Message	::.	Status	]]>
+22.	<[[	..	Half	1.	Date	2.	Time	3.	Zone	::.	Full	]]>
+23.	<[[	..	Collage	1.	Neutral	2.	Positive	3.	Negative	::.	Grade	]]>
+24.	<[[	..	Board	1.	Free	2.	Item	3.	Circuit	::.	Ratio	]]>
+25.	<[[	..	Feature	1.	Minimum	2.	Maximum	3.	Part	::.	Compose	]]>
+26.	<[[	..	Test	1.	Track	2.	Screen	3.	Store	::.	Process	]]>
+::.	<[[	..	Slash	1.	Menu	2.	Logo	3.	Cover	::.	Element	]]>
