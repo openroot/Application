@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Application
+/Application/PHP/0.0.1/Application/error/error*.txt
+/Application/PHP/0.0.2/Application/error/error*.txt
